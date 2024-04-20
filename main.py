@@ -1,3 +1,21 @@
+# Running the Program
+
+# Requirements:
+    #   - Python 3.12 or higher
+# Steps:
+    # 1. Open the Command Line:
+    #   - Navigate to the working directory where the file main.py is located.
+    # 2. Execute the Program:
+    #   - Run the command:
+    #       `python main.py`
+    # 3. Provide Input:
+    #   - The program will prompt you for input. Type your word and press Enter.
+    #   - After entering the first word, wait for the next prompt and repeat the process for the second word.
+    # 4. Processing:
+    #   - Once both words are entered, the program will begin the calculations automatically.
+
+# Authors: Eduardo Nunez and Miguel Mancera
+
 def edit_distance(s1, s2):
     m, n = len(s1), len(s2)
     dp = [[i if j == 0 else j if i ==
