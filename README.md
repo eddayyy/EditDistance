@@ -27,4 +27,34 @@ Developed by Eduardo Nunez and Miguel Mancera, this tool is designed for educati
 ## **Example Output**
 
 Here is an example of how the output may look after you run the program:
+```
+Enter the first word: evaluation
+Enter the second ...
 
+Distance Matrix:
+
+    0   1   2   3   4   5   6   7
+0 | 0 : 1 : 2 : 3 : 4 : 5 : 6 : 7 :
+1 | 1 : 0 : 1 : 2 : 3 : 4 : 5 : 6 :
+2 | 2 : 1 : 1 : 2 : 3 : 4 : 5 : 6 :
+3 | 3 : 2 : 2 : 2 : 3 : 4 : 5 : 6 :
+4 | 4 : 3 : 2 : 3 : 3 : 4 : 5 : 6 :
+5 | 5 : 4 : 3 : 2 : 3 : 4 : 5 : 6 :
+6 | 6 : 5 : 4 : 3 : 3 : 4 : 5 : 6 :
+7 | 7 : 6 : 5 : 4 : 3 : 4 : 5 : 6 :
+8 | 8 : 7 : 6 : 5 : 4 : 3 : 4 : 5 :
+9 | 9 : 8 : 7 : 6 : 5 : 4 : 3 : 4 :
+10 | 10 : 9 : 8 : 7 : 6 : 5 : 4 : 3 :
+
+Edit distance: 3
+
+Alignment:
+
+Alignment 1: evaluation
+Alignment 2: e--lu-tion
+```
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) for details.
