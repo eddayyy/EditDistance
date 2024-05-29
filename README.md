@@ -1,5 +1,4 @@
 <div align="center">
-    <img width=35% src="./data/media/MatrixLogo.png">
     <h1>Edit Distance Calculator 🔠</h1>
     <img alt="Python Version" src="https://img.shields.io/badge/Python-v3.12%2B-blue">
     <a href="https://opensource.org/licenses/MIT">
